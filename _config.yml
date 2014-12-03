@@ -1,0 +1,14 @@
+defauts:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "project"
+      author: "drewbro"
